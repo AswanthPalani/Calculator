@@ -1,2 +1,2 @@
 # Calculator
-Only HTML and CSS
+My Calculator
